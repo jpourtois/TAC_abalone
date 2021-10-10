@@ -1,3 +1,5 @@
+# Script from Aalto et al. 2019 ('Catastrophic Mortality, Allee Effects, and Marine Protected Areas), written by Emilius A. Aalto
+
 library(ggplot2);
 library(grid);
 #source("/Users/julie/Documents/Stanford/First Year/TAC Summer Project/IPM/abalone code/common/myUtil.r");
