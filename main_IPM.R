@@ -3,6 +3,8 @@
 # Script for "Modeling the effect of habitat and fishing heterogeneity on the performance of a TAC-regulated fishery" (Pourtois et al., In Review)
 # Adapted from script for "Catastrophic Mortality, Allee Effects, and Marine Protected Areas" (Aalto et al., 2019)
 
+# Script modified by Julie D. Pourtois from original script from Emilius A. Aalto. 
+
 # General model
 # use this for analysis
 
