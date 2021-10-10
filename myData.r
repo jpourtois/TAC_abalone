@@ -1,4 +1,6 @@
 # My data functions
+# Script from Aalto et al. 2019 ('Catastrophic Mortality, Allee Effects, and Marine Protected Areas), written by Emilius A. Aalto
+
 # NOTE: Many of these functions make changes *in place*, without creating a new column
 #library(plyr);
 library(nlme);
