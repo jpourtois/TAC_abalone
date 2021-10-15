@@ -1,6 +1,6 @@
 Code to recreate results from "Modeling the effect of habitat and fishing heterogeneity on the performance of a TAC-regulated fishery" by Julie D. Pourtois
 Adapted from code for "Catastrophic Mortality, Allee Effects, and Marine Protected Areas" by Emilius A. Aalto
 
-main_IPM.R: Main code to run analysis and generate figures. Requires functions from myData.R, myUtils.R and myGraphics.R
+IPM_main.R: Main code to run analysis and generate figures. Requires functions from myData.R, myUtils.R and myGraphics.R
 
 
